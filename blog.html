@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
 
+<div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -16,7 +17,4 @@ permalink: /blog/
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-
-### Contact me
-
-Email me at contact@alexesp.com or click on one of the links below!
+</div>
