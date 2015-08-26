@@ -12,4 +12,4 @@ I started this site in August 2015 at the age of 23 for many reasons, the main o
 
 ### Contact me
 
-Just hit the E-mail, Facebook, or Google+ links below!
+Email me at contact@alexesp.com or click on one of the links below!
