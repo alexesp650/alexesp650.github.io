@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I started this site in August 2015 at the age of 23 for many reasons, the main ones being to blog about my adventures as a Peace Corps volunteer in the Gambia and to reassure my friends and family that I'm still alive with my (hopefully) regular blog posts.
 
-### More Information
+### Personal Info
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Just hit the E-mail, Facebook, or Google+ links below!
