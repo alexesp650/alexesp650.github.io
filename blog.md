@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-<div class="posts">
+
   {% for post in site.posts %}
     <article class="post">
 
@@ -16,7 +16,6 @@ permalink: /blog/
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
 
 ### Contact me
 
