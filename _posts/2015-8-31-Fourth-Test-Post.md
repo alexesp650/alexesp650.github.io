@@ -7,4 +7,4 @@ layout: post
 
 Here is a pic that is contained within _images
 
-![myfirstpic]({{ site.baseurl }}/images/fallout_3.png "fallout 3 standby img")
+![myfirstpic]({{ site.baseurl }}/images/fallout_3.png)
