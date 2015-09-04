@@ -14,10 +14,14 @@
 /**************/
 
 html {
+  height: 100%;
+  width: 100%
   font-size: 100%;
 }
 
 body {
+  height: 100%;
+  width: 100%;
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
@@ -272,6 +276,9 @@ nav {
 }
 
 .wrapper-footer {
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
