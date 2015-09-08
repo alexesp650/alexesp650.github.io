@@ -2,6 +2,7 @@
 layout: post
 title: I'm up and running!
 ---
+# I'm up and running!
 <!---
 below is an example in how to set pics in posts
 -->
