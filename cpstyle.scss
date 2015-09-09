@@ -55,8 +55,10 @@ html {
 body {
   height: 100%;
   width: 100%;
-	background: transparent url("../images/CPbk1.jpg") no-repeat;
+	background: transparent url("../images/CPbk1.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
+  background-origin: center;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
     animation: animatedBackground 90s alternate infinite;
