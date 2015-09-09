@@ -19,12 +19,50 @@ html {
   font-size: 100%;
 }
 
+@keyframes animatedBackground {
+   from {
+       background-position: 0 0;
+   }
+   to {
+       background-position: 100% 0;
+   }
+}
+@-webkit-keyframes animatedBackground {
+   from {
+       background-position: 0 0;
+   }
+   to {
+       background-position: 100% 0;
+   }
+}
+@-ms-keyframes animatedBackground {
+   from {
+       background-position: 0 0;
+   }
+   to {
+       background-position: 100% 0;
+   }
+}
+@-moz-keyframes animatedBackground {
+   from {
+       background-position: 0 0;
+   }
+   to {
+       background-position: 100% 0;
+   }
+}
+
 body {
   height: 100%;
   width: 100%;
-	background: transparent url("../images/CPbk1.jpg") no-repeat scroll center center / cover;
+	background: transparent url("../images/CPbk1.jpg") no-repeat fixed;
+  background-size: cover;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+    animation: animatedBackground 90s linear infinite;
+   -ms-animation: animatedBackground 90s linear infinite;
+   -moz-animation: animatedBackground 90s linear infinite;
+   -webkit-animation: animatedBackground 90s linear infinite;
 }
 
 .container {
@@ -166,7 +204,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
