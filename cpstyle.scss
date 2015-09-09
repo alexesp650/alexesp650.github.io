@@ -55,14 +55,14 @@ html {
 body {
   height: 100%;
   width: 100%;
-	background: transparent url("../images/CPbk1.jpg") no-repeat fixed;
+	background: transparent url("../images/CPbk1.jpg") no-repeat;
   background-size: cover;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-    animation: animatedBackground 120s alternate infinite;
-   -ms-animation: animatedBackground 120s alternate infinite;
-   -moz-animation: animatedBackground 120s alternate infinite;
-   -webkit-animation: animatedBackground 120s alternate infinite;
+    animation: animatedBackground 90s alternate infinite;
+   -ms-animation: animatedBackground 90s alternate infinite;
+   -moz-animation: animatedBackground 90s alternate infinite;
+   -webkit-animation: animatedBackground 90s alternate infinite;
 }
 
 .container {
