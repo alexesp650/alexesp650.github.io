@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $lightGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -162,11 +162,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  border-bottom: 2px solid #C3C3C3;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -285,7 +285,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $white;
 }
 
 footer {
