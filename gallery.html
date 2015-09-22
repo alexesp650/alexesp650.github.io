@@ -13,7 +13,7 @@ permalink: /gallery/
 	<section class="grid-wrap">
 	<ul class="grid">
 		<li class="grid-sizer"></li><!-- for Masonry column width -->
-		{% for post in site.posts %}
+		{% for post in site.galleryposts %}
 		<li>
 			<figure>
 				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
@@ -29,7 +29,7 @@ permalink: /gallery/
 
 	<section class="slideshow">
 	<ul>
-		{% for post in site.posts %}
+		{% for post in site.galleryposts %}
 		<li>
 			<figure>
 				<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
