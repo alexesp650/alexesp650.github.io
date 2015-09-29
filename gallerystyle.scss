@@ -61,7 +61,10 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $;
+  font-weight: normal;
+  margin: 0em 0px 0px;
+  margin-top: 15px;
 }
 
 h5 {
@@ -252,35 +255,10 @@ nav {
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid #A2A2A2;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+.galleryentry {
+  float: left;
+  margin-left: 15px;
   }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
 
 .wrapper-footer {
   margin-top: 50px;
