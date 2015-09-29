@@ -254,17 +254,21 @@ nav {
 //
 // .main
 //
+.gallerytypes {
+  clear: both;
+}
 
 .galleryentry {
   float: left;
-  margin-left: 15px;
-  }
+  margin-left: 25px;
+}
 
 .wrapper-footer {
   margin-top: 50px;
   border-top: 2px solid #A2A2A2;
   border-bottom: 1px solid #ddd;
   background-color: $white;
+  clear: both;
 }
 
 footer {
