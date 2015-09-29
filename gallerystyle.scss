@@ -155,6 +155,16 @@ img {
     clear: both;
 }
 
+.gallerytypes {
+  clear: both;
+}
+
+.galleryentry {
+  float: left;
+  margin-left: 25px;
+}
+
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -279,15 +289,6 @@ nav {
 .post .read-more {
   text-transform: uppercase;
   font-size: 15px;
-}
-
-.gallerytypes {
-  clear: both;
-}
-
-.galleryentry {
-  float: left;
-  margin-left: 25px;
 }
 
 .wrapper-footer {
