@@ -32,6 +32,6 @@ Gambia address:
 -> Banjul – The Gambia <-
 
 -> West Africa <-
-
+{: style="text-align: center;"}
 
 Email me at contact@alexesp.com or click on one of the links below!
