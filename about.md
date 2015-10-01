@@ -22,17 +22,17 @@ These months in between have consisted of all sorts of preparations such as gain
 
 Gambia address:
 
--> Alejandro Espinosa de los Monteros <-
+<div class="centeralign">
+Alejandro Espinosa de los Monteros
 
--> C/O Peace Corps The Gambia <-
+C/O Peace Corps The Gambia
 
--> P.O. Box 582 <-
+P.O. Box 582
 
--> 78 Kairaba Avenue <-
+78 Kairaba Avenue
 
--> Banjul – The Gambia <-
+Banjul – The Gambia
 
-<div class="center">
 West Africa
 </div>
 
