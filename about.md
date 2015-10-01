@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+#About
 
 I started this site in August 2015 at the age of 23 for many reasons, the main ones being to blog about my adventures as a Peace Corps volunteer in the Gambia and to reassure my friends and family that I'm still alive with my (hopefully) regular posts.
 
@@ -31,7 +32,6 @@ Gambia address:
 
 -> Banjul – The Gambia <-
 
--> West Africa <-
-{: style="text-align: center;"}
+West Africa {: .right}
 
 Email me at contact@alexesp.com or click on one of the links below!
