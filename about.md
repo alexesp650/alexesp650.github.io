@@ -31,7 +31,7 @@ Gambia address:
 -> 78 Kairaba Avenue <-
 
 -> Banjul – The Gambia <-
-
-West Africa {: .right}
+{: .center}
+West Africa
 
 Email me at contact@alexesp.com or click on one of the links below!
