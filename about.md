@@ -20,12 +20,12 @@ These months in between have consisted of all sorts of preparations such as gain
 ### Contact me
 
 Gambia address:
-#####Alejandro Espinosa de los Monteros
-#####C/O Peace Corps The Gambia
-#####P.O. Box 582
-#####78 Kairaba Avenue
-#####Banjul – The Gambia
-#####West Africa
-##
+-> #####Alejandro Espinosa de los Monteros <-
+-> #####C/O Peace Corps The Gambia <-
+-> ####P.O. Box 582 <-
+-> #####78 Kairaba Avenue <-
+-> #####Banjul – The Gambia <-
+-> #####West Africa <-
+
 
 Email me at contact@alexesp.com or click on one of the links below!
