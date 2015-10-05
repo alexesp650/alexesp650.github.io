@@ -23,7 +23,7 @@ These months in between have consisted of all sorts of preparations such as gain
 Gambia address:
 
 <div class="centeralign">
-Alejandro Espinosa de los Monteros  
+Alejandro Espinosa de los Monteros, PCT  
 </div>
 <div class="centeralign">
 C/O Peace Corps The Gambia
@@ -40,5 +40,6 @@ Banjul – The Gambia
 <div class="centeralign">
 West Africa
 </div>
-
+<div class="centeralign">
 Email me at contact@alexesp.com or click on one of the links below!
+</div>
