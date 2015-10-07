@@ -258,49 +258,6 @@ nav {
   }
 }
 
-#clock .digital-wrap {
-  width:9em;
-  height:3em;
-  border:.1em solid #222;
-  border-radius:.2em;
-  position:absolute;
-  top:50%; left:50%;
-  margin:3em 0 0 -4.5em;
-  overflow:hidden;
-  background:#4c4c4c;
-  background:-webkit-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
-  background:-moz-linear-gradient(top, #4c4c4c 0%, #0f0f0f 100%);
-  background:-ms-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
-  background:-o-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
-  background:linear-gradient(to bottom, #4c4c4c 0%,#0f0f0f 100%);
-}
-#clock .digital-wrap ul {
-  float:left;
-  width:2.85em;
-  height:3em;
-  border-right:.1em solid #000;
-  color:#ddd;
-  font-family:Consolas, monaco, monospace;
-}
-#clock .digital-wrap ul:last-child { border:none }
-#clock .digital-wrap li {
-  font-size:1.5em;
-  line-height:2;
-  letter-spacing:2px;
-  text-align:center;
-  position:relative;
-  left:1px;
-}
-#clock .digit-minutes li {
-  animation:dsm 3600s steps(60, end) 0s infinite;
-}
-#clock .digit-seconds li {
-  animation:dsm 60s steps(60, end) 0s infinite;
-}
-@keyframes dsm {
-  to { transform:translateY(-120em) }
-}
-
 //
 // .main
 //
