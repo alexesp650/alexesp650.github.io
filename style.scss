@@ -258,6 +258,22 @@ nav {
   }
 }
 
+#watch .digital-wrap {
+  width:9em;
+  height:3em;
+  border:.1em solid #222;
+  border-radius:.2em;
+  position:absolute;
+  top:50%; left:50%;
+  margin:3em 0 0 -4.5em;
+  overflow:hidden;
+  background:#4c4c4c;
+  background:-webkit-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
+  background:-moz-linear-gradient(top, #4c4c4c 0%, #0f0f0f 100%);
+  background:-ms-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
+  background:-o-linear-gradient(top, #4c4c4c 0%,#0f0f0f 100%);
+  background:linear-gradient(to bottom, #4c4c4c 0%,#0f0f0f 100%);
+}
 #clock .digital-wrap ul {
   float:left;
   width:2.85em;
@@ -284,6 +300,7 @@ nav {
 @keyframes dsm {
   to { transform:translateY(-120em) }
 }
+
 //
 // .main
 //
