@@ -258,6 +258,30 @@ nav {
   }
 }
 
+#clock .digital-wrap ul {
+  float:left;
+  width:2.85em;
+  height:3em;
+  border-right:.1em solid #000;
+  color:#ddd;
+  font-family:Consolas, monaco, monospace;
+}
+#clock .digital-wrap ul:last-child { border:none }
+#clock .digital-wrap li {
+  font-size:1.5em;
+  line-height:2;
+  letter-spacing:2px;
+  text-align:center;
+  position:relative;
+  left:1px;
+}
+#clock .digit-minutes li {
+  animation:dsm 3600s steps(60, end) 0s infinite;
+}
+#clock .digit-seconds li {
+  animation:dsm 60s steps(60, end) 0s infinite;
+}
+
 //
 // .main
 //
