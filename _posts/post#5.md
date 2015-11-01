@@ -1,0 +1,17 @@
+---
+layout: post
+---
+# 3 weeks in. Still alive.
+### Update on what I do.
+#### Date: 11/01/15
+
+Hello people,
+
+I'm currently in an internet cafe in Soma. This is the largest village in the vicinity and the only place with a decent internet connection. Today is our first day off since we got to the Gambia and therefore many of us trainees decided to meet up in Soma to shop and such.
+Our days have been packed with language learning classes, getting to know the communities we live in, and just figuring out and adapting to the Gambia. It's been easyish so far because Gambians have been nothing but friendly. The language that I'm learning (Mandinka) is coming slowly but it's coming. I feel like I got kindda lucky to have Kaiaf as my training village. It's the biggest of all the training villages (aprox 1,500 pop) and the one where the most trainees live (12 including me).
+
+I've managed to get internet data on my smart phone and I can talk to people via whatsapp now. So message me through there and I'll probably reply within the day.
+
+I'm tryin to upload pics and vids but it's taking forever. I'll see what I can do but my internet time is almost up.
+
+Till next time, you're Mexican-African-American blog writer.
